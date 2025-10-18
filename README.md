@@ -10,7 +10,7 @@ A sleek, responsive static website for exploring modern home design ideas. Built
   [https://navneetsscripts.github.io/solution-home-website/](https://navneetsscripts.github.io/solution-home-website/)  <!-- Replace with your actual link -->
 
 - **Edit & Run Instantly (CodeSandbox):**  
-  [https://githubbox.com/your-username/solution-home-website](https://githubbox.com/your-username/solution-home-website)
+  [https://codesandbox.io/p/sandbox/github/NavneetsScripts/solution-home-website](https://codesandbox.io/p/sandbox/github/NavneetsScripts/solution-home-website)
 
 ---
 
